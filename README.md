@@ -1,2 +1,2 @@
 # frontweb
-this repository have simple web page front end design codes while i am learning web development
+this repository have simple web page front end design codes that i wrote while i am learning web development
