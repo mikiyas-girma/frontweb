@@ -1,0 +1,1 @@
+scope of the website and its  limitation should be defined in this file.
