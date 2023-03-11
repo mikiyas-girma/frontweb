@@ -1,1 +1,3 @@
 scope of the website and its  limitation should be defined in this file.
+
+the priviledge of the collabarators also should be defined in a clear way.
